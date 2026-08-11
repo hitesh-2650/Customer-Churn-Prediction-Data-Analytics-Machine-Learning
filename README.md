@@ -1,0 +1,2 @@
+# Customer-Churn-Prediction-Data-Analytics-Machine-Learning
+Analyzed customer data to identify key factors associated with customer churn. Performed data preprocessing and feature encoding using Python and Pandas. Developed a Machine Learning classification model using Scikit-learn to predict customer churn. Built a web application using Flask and React.js to provide interactive churn predictions.
